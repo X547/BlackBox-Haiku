@@ -31,5 +31,5 @@ Build instructions:
 
 1. Open `Tool.odc`.
 2. Click on commander icon before `TestModList.Compile`.
-3. Click on commander icon before `DevElfLinker2.Link`. It will produce `Blackbox.sh` executable.
+3. Click on commander icon before `DevElfLinker2.Link`. It will produce `Blackbox.so` executable.
 4. Execute `SetResources.sh` in Terminal. Blackbox root directory should be current working directory. It will attach resources to Blackbox executable. Resources are necessary for file associations.
