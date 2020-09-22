@@ -1,7 +1,7 @@
 ![](/Haiku/Rsrc/Blackbox.png?raw=true)
 # BlackBox-Haiku
 
-BlackBox Component Builder port to [Haiku operating system](https://www.haiku-os.org/).
+[BlackBox Component Builder](http://blackboxframework.org/) port to [Haiku operating system](https://www.haiku-os.org/).
 
 Only 32 bit x86 is supported because 64 bit Component Pascal compiler is not yet available.
 
