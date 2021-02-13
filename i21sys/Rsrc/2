@@ -1,0 +1,8 @@
+"""
+'------------------------------------------------------------------
+Dim sh
+Set sh = WScript.CreateObject("WScript.Shell")
+sh.Run prg & " " & "/use """ & sh.CurrentDirectory & """", 1, false
+'------------------------------------------------------------------
+' Автор: Ф.В.Ткачев info21(at)inr ac ru 2010-10-23
+' Использован скрипт Bernhard Treutwein BdT(at)wildwein de
