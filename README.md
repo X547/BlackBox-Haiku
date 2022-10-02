@@ -20,12 +20,12 @@ Some technical details:
 __Warning__: port is in progress and incomplete. Some features are not working.
 
 Known issues:
-* Open/save dialogs are not working.
-* Save confirmation is not implemented. Changes will be lost when closing window.
+* ~~Open/save dialogs are not working.~~ Done.
+* ~~Save confirmation is not implemented. Changes will be lost when closing window.~~ Done.
 * Drag&drop is working only inside Blackbox application.
-* Popup menu is not working. Focus view-based menu items display is not working, all menu items are displayed. Menu guards are not implemented.
-* Mouse pointer shapes are not implemented.
-* Window placement is too trivial.
+* ~~Popup menu is not working. Focus view-based menu items display is not working, all menu items are displayed. Menu guards are not implemented.~~ Done.
+* ~~Mouse pointer shapes are not implemented.~~ Done.
+* ~~Window placement is too trivial.~~ Done.
 
 Build instructions:
 
